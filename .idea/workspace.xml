@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: entradas e saídas">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao conversão de tipos">
+      <change beforePath="$PROJECT_DIR$/src/ExpressoesComparativas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExpressoesComparativas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +75,21 @@
       <option name="project" value="LOCAL" />
       <updated>1772394486866</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: adicao conversão de tipos">
+      <option name="closed" value="true" />
+      <created>1772395138834</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772395138834</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: adicao operacdores e trabalhando com strings" />
     <MESSAGE value="feat: entradas e saídas" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: entradas e saídas" />
+    <MESSAGE value="feat: adicao conversão de tipos" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao conversão de tipos" />
   </component>
 </project>
