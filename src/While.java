@@ -3,14 +3,23 @@ public class While {
         int contador = 0;
 
 
-        while (contador <= 5){
+        while (contador <= 5) {
             System.out.println("Contador: " + contador);
             contador++;
         }
 
-        do {
-            System.out.println("Contador do while " + contador);
-            contador++;
-        }while (contador<5);
+//        do {
+//            System.out.println("Contador do while " + contador);
+//            contador++;
+//        }while (contador<5);
+//    }
+
+        for (int cont = 0; cont < 5; cont++) {
+            System.out.println("contador do for: " + cont);
+        }
+
     }
+
+
+
 }
