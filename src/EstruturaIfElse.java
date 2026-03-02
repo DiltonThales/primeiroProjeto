@@ -28,6 +28,14 @@ public class EstruturaIfElse {
             System.out.println("Não pede nada!");
         }
 
+        String mensagem = (temDinheiro) ? "Pede um ifood" : "Come o que tem em casa";
+        System.out.println(mensagem);
+
+        if (temDinheiro){
+            System.out.println("Pede um ifood");
+        }else {
+            System.out.println("Come o que  tem em casa");
+        }
 
     }
 }
