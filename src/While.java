@@ -7,5 +7,10 @@ public class While {
             System.out.println("Contador: " + contador);
             contador++;
         }
+
+        do {
+            System.out.println("Contador do while " + contador);
+            contador++;
+        }while (contador<5);
     }
 }

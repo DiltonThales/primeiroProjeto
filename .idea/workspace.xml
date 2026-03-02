@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao switch case">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao while">
       <change beforePath="$PROJECT_DIR$/src/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +45,7 @@
     "Application.OperadoresLogicos.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.TrabalhandoComStrings.executor": "Run",
-    "Application.While.executor": "Run",
+    "Application.While.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772490884056</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="feat: adicao while">
+      <option name="closed" value="true" />
+      <created>1772491330828</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1772491330828</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -131,6 +139,28 @@
     <MESSAGE value="feat: adicao Operadores" />
     <MESSAGE value="feat: estruturabaisca if" />
     <MESSAGE value="feat: adicao switch case" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao switch case" />
+    <MESSAGE value="feat: adicao while" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao while" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/While.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/While.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/While.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
