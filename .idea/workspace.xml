@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: estruturabaisca if">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstruturaIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EstruturaIfElse.java" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao switch case">
+      <change beforePath="$PROJECT_DIR$/src/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,9 @@
     "Application.Main.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
     "Application.OperadoresLogicos.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
     "Application.TrabalhandoComStrings.executor": "Run",
+    "Application.While.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -111,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772396161878</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feat: adicao switch case">
+      <option name="closed" value="true" />
+      <created>1772490884056</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772490884056</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -121,6 +130,7 @@
     <MESSAGE value="feat: adicao expressao comparativas" />
     <MESSAGE value="feat: adicao Operadores" />
     <MESSAGE value="feat: estruturabaisca if" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: estruturabaisca if" />
+    <MESSAGE value="feat: adicao switch case" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao switch case" />
   </component>
 </project>
