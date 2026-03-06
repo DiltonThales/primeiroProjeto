@@ -26,6 +26,8 @@ public class EstudoHashMap {
             System.out.println(nome + " :  " + valorNota);
         }
 
+        int tamanhoDoHash = notasDosAlunos.size();
+        notasDosAlunos.remove("Alice");
 
     }
 }
