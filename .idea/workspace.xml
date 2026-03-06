@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao Array">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: ArrayList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +41,7 @@
     "Application.EntraSaidaDedados.executor": "Run",
     "Application.EstruturaIfElse.executor": "Run",
     "Application.EstudoArrayList.executor": "Run",
+    "Application.EstudoHashMap.executor": "Run",
     "Application.ExpressoesComparativas.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
@@ -147,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772493026030</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="feat: ArrayList">
+      <option name="closed" value="true" />
+      <created>1772757897997</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772757897997</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,7 +169,8 @@
     <MESSAGE value="feat: adicao while" />
     <MESSAGE value="feat: doWhile" />
     <MESSAGE value="feat: adicao Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao Array" />
+    <MESSAGE value="feat: ArrayList" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: ArrayList" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
