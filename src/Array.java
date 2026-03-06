@@ -23,6 +23,10 @@ public class Array {
             System.out.println(salario);
         }
 
+
+        salarios[2] = 250.00;
+        System.out.println(salarios[2]);
+
         System.out.println(frutas[0]);
 
 
