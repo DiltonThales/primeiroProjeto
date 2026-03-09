@@ -8,6 +8,7 @@ public class PlantaCasa {
     String material;
 
     public void contruir(){
+        System.out.println("A casa foi contruída, as características são: ");
         System.out.println("Metragem " + metragem);
         System.out.println("Numero de quartos " + numeroQuartos);
         System.out.println("Numero de Banheiros " + numeroBanheiros);
@@ -15,7 +16,7 @@ public class PlantaCasa {
     }
 
     public void pintar(){
-        System.out.println("Cor " + cor);
+        System.out.println("A casa foi pintada de " + cor);
     }
 
 

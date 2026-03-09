@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao TreeMap">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao Planta casa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PlantaCasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlantaCasa.java" afterDir="false" />
     </list>
@@ -35,31 +35,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTipos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EntraSaidaDedados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturaIfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoDoTreeMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExpressoesComparativas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrabalhandoComStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.executor": "Run",
+    "Application.Casa.executor": "Run",
+    "Application.ConversaoDeTipos.executor": "Run",
+    "Application.EntraSaidaDedados.executor": "Run",
+    "Application.EstruturaIfElse.executor": "Run",
+    "Application.EstudoArrayList.executor": "Run",
+    "Application.EstudoDoTreeMap.executor": "Run",
+    "Application.EstudoHashMap.executor": "Run",
+    "Application.ExpressoesComparativas.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TrabalhandoComStrings.executor": "Run",
+    "Application.While.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -173,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772761330744</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="feat: adicao Planta casa">
+      <option name="closed" value="true" />
+      <created>1772888913224</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1772888913224</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,7 +199,8 @@
     <MESSAGE value="feat: ArrayList" />
     <MESSAGE value="feat: adicao hashMap" />
     <MESSAGE value="feat: adicao TreeMap" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao TreeMap" />
+    <MESSAGE value="feat: adicao Planta casa" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao Planta casa" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
