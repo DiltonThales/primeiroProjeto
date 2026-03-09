@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao Planta casa">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlantaCasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etapaConstrucao/PlantaCasa.java" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao nova instancia casa viznho">
+      <change beforePath="$PROJECT_DIR$/src/Execucao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Execucao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Util.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Application.EstudoArrayList.executor": "Run",
     "Application.EstudoDoTreeMap.executor": "Run",
     "Application.EstudoHashMap.executor": "Run",
+    "Application.Execucao.executor": "Run",
     "Application.ExpressoesComparativas.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
@@ -195,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773095936782</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat: variaveis">
+      <option name="closed" value="true" />
+      <created>1773098132689</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1773098132689</updated>
+    </task>
+    <task id="LOCAL-00017" summary="feat: adicao nova instancia casa viznho">
+      <option name="closed" value="true" />
+      <created>1773098388282</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1773098388282</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,7 +229,9 @@
     <MESSAGE value="feat: adicao hashMap" />
     <MESSAGE value="feat: adicao TreeMap" />
     <MESSAGE value="feat: adicao Planta casa" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao Planta casa" />
+    <MESSAGE value="feat: variaveis" />
+    <MESSAGE value="feat: adicao nova instancia casa viznho" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao nova instancia casa viznho" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
