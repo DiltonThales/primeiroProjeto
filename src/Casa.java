@@ -1,3 +1,5 @@
+import etapaConstrucao.PlantaCasa;
+
 public class Casa {
     public static void main(String[] args) {
 
@@ -17,5 +19,6 @@ public class Casa {
         casa.pintar();
 
 
-    }
+
+   }
 }

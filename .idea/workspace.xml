@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao Planta casa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlantaCasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlantaCasa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlantaCasa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etapaConstrucao/PlantaCasa.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
@@ -49,6 +53,7 @@
     "Application.Main.executor": "Run",
     "Application.OperadoresAritmeticos.executor": "Run",
     "Application.OperadoresLogicos.executor": "Run",
+    "Application.PlantaCasa.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.TrabalhandoComStrings.executor": "Run",
     "Application.While.executor": "Run",
@@ -182,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772888913224</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="feat: adicao Planta casa">
+      <option name="closed" value="true" />
+      <created>1773095936782</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1773095936782</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -259,6 +272,21 @@
           <url>file://$PROJECT_DIR$/src/Array.java</url>
           <line>22</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/etapaConstrucao/PlantaCasa.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/etapaConstrucao/PlantaCasa.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/etapaConstrucao/PlantaCasa.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
