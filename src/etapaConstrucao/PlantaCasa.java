@@ -64,6 +64,17 @@ public class PlantaCasa {
 
         casa.alteracaoCaracteristicas(100,2,2,"Madeira");
 
+
+        PlantaCasa casaVizinho = new PlantaCasa();
+        casaVizinho.metragem = 200;
+        casaVizinho.material = "alvenaria";
+        casaVizinho.numeroBanheiros = 1;
+        casaVizinho.numeroQuartos = 1;
+        casaVizinho.cor = "Amarelo";
+
+        casaVizinho.contruir();;
+        casaVizinho.pintar();
+
     }
 
 }
