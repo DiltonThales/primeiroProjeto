@@ -1,12 +1,30 @@
+package contabancaria;
+
 public class ContaBancaria {
     //Atributos privados
 
     private String titular;
     private Double saldo;
 
+
+    //Contrutor - com Atributos
+    public ContaBancaria(String titular, Double saldo) {
+        this.titular = titular;
+        this.saldo = saldo;
+    }
+
+
+    //Contrutuor que inicializa a conta bancaria com saldo 0
+    public ContaBancaria(String titular) {
+        this.titular = titular;
+        this.saldo = 0.0;
+    }
+
+
+
     //Getter e Setter = Métodos padrões para acessar e modificar os ateributos
 
-    //MEtodo par4a obter o titular
+    //Metodo par4a obter o titular
     public String getTitular() {
         return titular;
     }
@@ -25,4 +43,7 @@ public class ContaBancaria {
     public void setSaldo(Double saldo) { //saldo parâmetro
         this.saldo = saldo; //this.saldo atribudor e "saldo"é o saldo parêmetro
     }
+
+
+
 }

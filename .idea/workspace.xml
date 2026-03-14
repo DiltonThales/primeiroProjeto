@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao ContaBancaria">
-      <change beforePath="$PROJECT_DIR$/src/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao get e setters">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Casa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/etapaConstrucao/Casa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contabancaria/ContaBancaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/contabancaria/Agencia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/contabancaria/Agencia.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773516808355</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="feat: adicao get e setters">
+      <option name="closed" value="true" />
+      <created>1773517065458</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773517065458</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,7 +269,8 @@
     <MESSAGE value="feat: metodos static e instacias dif" />
     <MESSAGE value="feat: implementacao interface" />
     <MESSAGE value="feat: adicao ContaBancaria" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao ContaBancaria" />
+    <MESSAGE value="feat: adicao get e setters" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao get e setters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
