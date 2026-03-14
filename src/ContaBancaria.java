@@ -18,7 +18,11 @@ public class ContaBancaria {
     }
 
 
+    public Double getSaldo() {
+        return saldo;
+    }
 
-
-
+    public void setSaldo(Double saldo) { //saldo parâmetro
+        this.saldo = saldo; //this.saldo atribudor e "saldo"é o saldo parêmetro
+    }
 }

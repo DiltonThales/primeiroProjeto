@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: implementacao interface">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao ContaBancaria">
+      <change beforePath="$PROJECT_DIR$/src/ContaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContaBancaria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +227,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773515733959</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="feat: adicao ContaBancaria">
+      <option name="closed" value="true" />
+      <created>1773516808355</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773516808355</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,7 +257,8 @@
     <MESSAGE value="feat: adicao nova instancia casa viznho" />
     <MESSAGE value="feat: metodos static e instacias dif" />
     <MESSAGE value="feat: implementacao interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: implementacao interface" />
+    <MESSAGE value="feat: adicao ContaBancaria" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao ContaBancaria" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
