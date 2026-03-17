@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao heranca animal">
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Calculadora.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/polimorfismo/Polimorfismo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Polimorfismo.java" afterDir="false" />
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: adicao polimorfismo">
       <change beforePath="$PROJECT_DIR$/src/polimorfismo/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/polimorfismo/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -303,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773708336822</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="feat: adicao polimorfismo">
+      <option name="closed" value="true" />
+      <created>1773709807478</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1773709807478</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,7 +324,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: adicao operacdores e trabalhando com strings" />
     <MESSAGE value="feat: entradas e saídas" />
     <MESSAGE value="feat: adicao conversão de tipos" />
     <MESSAGE value="feat: adicao expressao comparativas" />
@@ -343,7 +348,8 @@
     <MESSAGE value="refactor: adição classe animal" />
     <MESSAGE value="refactor: adição classe acachorro e galinha" />
     <MESSAGE value="feat: adicao heranca animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao heranca animal" />
+    <MESSAGE value="feat: adicao polimorfismo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: adicao polimorfismo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
