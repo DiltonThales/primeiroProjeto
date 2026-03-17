@@ -20,5 +20,10 @@ public class Principal {
         System.out.println(totalInteger);
         // ----------- SOBRECARGA
 
+
+        Carro fusca = new Carro();
+        fusca.mover();
+
+
     }
 }
