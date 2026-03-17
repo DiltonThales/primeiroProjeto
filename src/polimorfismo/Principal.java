@@ -1,0 +1,24 @@
+package polimorfismo;
+
+public class Principal {
+    public static void main(String[] args) {
+
+        int sabaoEmPo = 1;
+        int mamao = 2;
+        double sabonete = 2.50;
+        double arroz = 5.90;
+        Integer batata = 6;
+        Integer cenoura = 7;
+        Integer melancia = 5;
+
+        int total = Calculadora.somar(sabaoEmPo,mamao);
+        double totalDouble = Calculadora.somar(sabonete,arroz);
+        Integer totalInteger = Calculadora.somar(batata,cenoura,melancia);
+
+        System.out.println(total);
+        System.out.println(totalDouble);
+        System.out.println(totalInteger);
+
+
+    }
+}
