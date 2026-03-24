@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: organizado.">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: acrescentado a classe para ler arquivo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstudoArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/EstudoArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstudoDoTreeMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/EstudoDoTreeMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EstudoHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/EstudoHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/While.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturarepeticao/While.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,36 +38,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Agencia.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Casa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ConversaoDeTipos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EntraSaidaDedados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstruturaIfElse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoDoTreeMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EstudoHashMap.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Execucao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExpressoesComparativas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresAritmeticos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresLogicos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PlantaCasa.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SwitchCase.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TrabalhandoComStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.While.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Agencia.executor": "Run",
+    "Application.Array.executor": "Run",
+    "Application.Casa.executor": "Run",
+    "Application.ConversaoDeTipos.executor": "Run",
+    "Application.EntraSaidaDedados.executor": "Run",
+    "Application.EstruturaIfElse.executor": "Run",
+    "Application.EstudoArrayList.executor": "Run",
+    "Application.EstudoDoTreeMap.executor": "Run",
+    "Application.EstudoHashMap.executor": "Run",
+    "Application.Execucao.executor": "Run",
+    "Application.ExpressoesComparativas.executor": "Run",
+    "Application.LeitorDeDocumentos.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.OperadoresAritmeticos.executor": "Run",
+    "Application.OperadoresLogicos.executor": "Run",
+    "Application.PlantaCasa.executor": "Run",
+    "Application.Principal.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
+    "Application.TrabalhandoComStrings.executor": "Run",
+    "Application.VerificaCPF.executor": "Run",
+    "Application.While.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -362,7 +359,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774393539245</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="feat: acrescentado a classe para ler arquivo">
+      <option name="closed" value="true" />
+      <created>1774394961921</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1774394961921</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -377,7 +382,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: adicao while" />
     <MESSAGE value="feat: doWhile" />
     <MESSAGE value="feat: adicao Array" />
     <MESSAGE value="feat: ArrayList" />
@@ -402,7 +406,8 @@
     <MESSAGE value="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario" />
     <MESSAGE value="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento." />
     <MESSAGE value="feat: organizado." />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: organizado." />
+    <MESSAGE value="feat: acrescentado a classe para ler arquivo" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: acrescentado a classe para ler arquivo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
