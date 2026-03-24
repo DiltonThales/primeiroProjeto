@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: acrescentado a classe para ler arquivo">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: Verifica cpf" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
     "Application.Principal.executor": "Run",
     "Application.SwitchCase.executor": "Run",
     "Application.TrabalhandoComStrings.executor": "Run",
-    "Application.VerificaCPF.executor": "Run",
+    "Application.VerificaCPF.executor": "Debug",
     "Application.While.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -367,7 +365,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774394961921</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="feat: Verifica cpf">
+      <option name="closed" value="true" />
+      <created>1774395592108</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1774395592108</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -382,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: doWhile" />
     <MESSAGE value="feat: adicao Array" />
     <MESSAGE value="feat: ArrayList" />
     <MESSAGE value="feat: adicao hashMap" />
@@ -407,7 +412,8 @@
     <MESSAGE value="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento." />
     <MESSAGE value="feat: organizado." />
     <MESSAGE value="feat: acrescentado a classe para ler arquivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: acrescentado a classe para ler arquivo" />
+    <MESSAGE value="feat: Verifica cpf" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Verifica cpf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
