@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -341,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774309024560</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento.">
+      <option name="closed" value="true" />
+      <created>1774312020954</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1774312020954</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -356,7 +364,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: estruturabaisca if" />
     <MESSAGE value="feat: adicao switch case" />
     <MESSAGE value="feat: adicao while" />
     <MESSAGE value="feat: doWhile" />
@@ -381,7 +388,8 @@
     <MESSAGE value="feat: o nosso polimosfismo e viu,utiliza o mover do carro ao invés do transporte" />
     <MESSAGE value="feat: fez uma associação, pois a classe motor dentro da classe carro, e temos um atributo do tipo motor" />
     <MESSAGE value="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario" />
+    <MESSAGE value="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: diferenca classe abstrata e interface, diferenca do contrato da inetrface e da classe de abstracao que usa o que é imporante, e o encapsulamento." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

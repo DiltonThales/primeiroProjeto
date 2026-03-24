@@ -1,3 +1,5 @@
+package logicasequencial;
+
 public class OperadoresAritmeticos {
     public static void main(String[] args) {
         double pao = 10.50;
