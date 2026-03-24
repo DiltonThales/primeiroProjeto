@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: fez uma associação, pois a classe motor dentro da classe carro, e temos um atributo do tipo motor">
+    <list default="true" id="ddf258ea-ac44-4298-a276-beb44fb62861" name="Changes" comment="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/associacao/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/associacao/Principal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -334,7 +333,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774308224079</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario">
+      <option name="closed" value="true" />
+      <created>1774309024560</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1774309024560</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -349,7 +356,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: adicao Operadores" />
     <MESSAGE value="feat: estruturabaisca if" />
     <MESSAGE value="feat: adicao switch case" />
     <MESSAGE value="feat: adicao while" />
@@ -374,7 +380,8 @@
     <MESSAGE value="refactor: adicao polimorfismo SOBRECARGA" />
     <MESSAGE value="feat: o nosso polimosfismo e viu,utiliza o mover do carro ao invés do transporte" />
     <MESSAGE value="feat: fez uma associação, pois a classe motor dentro da classe carro, e temos um atributo do tipo motor" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: fez uma associação, pois a classe motor dentro da classe carro, e temos um atributo do tipo motor" />
+    <MESSAGE value="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Agregação,pois contrui um objeto com uma lista de funcionarios, e tambem é possivel criar  um objeto sem a lista de funcionario" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
